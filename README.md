@@ -27,4 +27,4 @@ and testing of course   :desktop_computer:
 
 ### You can contact me:
 <img align="left" alt="HTML5" width="35px" src=https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/640px-VK.com-logo.svg.png />: https://vk.com/feed 
-[<img align="left" alt="HTML5" width="35px" src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png />][https://t.me/ALANIYAIL]
+[<img align="left" alt="Telegram" width="35px" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png />][https://t.me/ALANIYAIL]
