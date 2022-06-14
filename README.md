@@ -32,3 +32,8 @@ and testing of course   :desktop_computer:
 
 [вк]: https://vk.com/feed
 [Telegram]: https://t.me/ALANIYAIL
+
+### My Certificates
+<image src="/images/https://disk.yandex.ru/i/SpPgS7ZWOSmkMg" alt="Т">
+<image src="/images/picture.jpg" alt="Текст с описанием картинки">
+<image src="/images/picture.jpg" alt="Текст с описанием картинки">С 
