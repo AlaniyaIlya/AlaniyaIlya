@@ -35,4 +35,4 @@ and testing of course   :desktop_computer:
 
 ---
 ### My Certificates
-![alt text](https://sun1-88.userapi.com/s/v1/if2/FabeV5pz-R9-I1I2KNN2cyBQQiv4athsC9aYiinSa8PLh-28TKUV9Sl9K4TLmimyL9uMTVm2Zxu6lF8kqe8X2avn.jpg?size=2560x1809&quality=95&type=album)
+<img align="left" alt="HTML5" width="50px" src=https://sun1-88.userapi.com/s/v1/if2/FabeV5pz-R9-I1I2KNN2cyBQQiv4athsC9aYiinSa8PLh-28TKUV9Sl9K4TLmimyL9uMTVm2Zxu6lF8kqe8X2avn.jpg?size=2560x1809&quality=95&type=album />
