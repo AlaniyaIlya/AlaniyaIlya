@@ -35,4 +35,4 @@ and testing of course   :desktop_computer:
 
 ---
 ### My Certificates
-<img align="left" alt="HTML5" width="35px" src=https://disk.yandex.ru/i/SpPgS7ZWOSmkMg />
+![alt text](https://disk.yandex.ru/i/SpPgS7ZWOSmkMg)
