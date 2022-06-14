@@ -1,15 +1,15 @@
 ## Hello, I'm Junior QA engineer
--
-## I'm a fullsteck web QA engineer
--
+
+## I'm a fullsteck
+
 I like
--:bike: bike
--:weight_lifting_woman: gym
--:book: :mag_right: learn something new
--:saxophone: jazz
+*:bike: bike
+*:weight_lifting_woman: gym
+*:book: :mag_right: learn something new
+*:saxophone: jazz
 -
 and testing of course :desktop_computer:
--
+
 ---
 ### Skills and Tools
 [https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png]
@@ -29,4 +29,4 @@ and testing of course :desktop_computer:
 
 ### You can contact me:
 [https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/640px-VK.com-logo.svg.png]: https://vk.com/feed 
-[https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png] https://t.me/ALANIYAIL
+[https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png] https://t.me/ALANIYAIL# AlaniyaIlya
