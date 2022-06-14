@@ -3,11 +3,11 @@
 ## I'm a fullsteck
 
 I like
-*:bike: bike
-*:weight_lifting_woman: gym
-*:book: :mag_right: learn something new
-*:saxophone: jazz
--
+* :bike: bike
+* :weight_lifting_woman: gym
+* :book: :mag_right: learn something new
+* :saxophone: jazz
+
 and testing of course :desktop_computer:
 
 ---
